@@ -3,7 +3,7 @@ package spring.mysql.n.tier.demo.models;
 import java.sql.Timestamp;
 import java.util.Objects;
 
-
+//Worker Class
 public class Worker  {
 	Integer workerId;
 	String firstName;
